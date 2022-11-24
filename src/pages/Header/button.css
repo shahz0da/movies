@@ -1,0 +1,46 @@
+:root {
+    --primary: #1888ff;
+}
+
+.button {
+    display: flex;
+
+}
+
+.plus {
+    padding: 8px 20px;
+    border-radius: 4px;
+    font-size: 35px;
+    color: #fff;
+    cursor: pointer;
+    font-weight: bold;
+}
+
+.btn {
+    padding: 5px;
+    border: 1px solid #fff;
+    border-radius: 4px;
+    font-size: 15px;
+    color: #fff;
+    cursor: pointer;
+    background-color: rgb(13, 37, 63);
+    margin-top: 15px;
+}
+
+.btn:hover {
+    color: rgb(13, 37, 63);
+    background-color: #fff;
+
+}
+
+.login {
+    text-decoration: none;
+    color: #fff;
+    padding: 20px;
+}
+
+.psearch {
+    color: rgb(1, 180, 228);
+    font-weight: bold;
+}
+
